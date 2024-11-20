@@ -1,0 +1,1 @@
+savedcmd_/home/adhipshukla/Documents/BBB_Linux/ldd/custom_drivers/006gpio_sysfs/gpio-sysfs.mod := printf '%s\n'   gpio-sysfs.o | awk '!x[$$0]++ { print("/home/adhipshukla/Documents/BBB_Linux/ldd/custom_drivers/006gpio_sysfs/"$$0) }' > /home/adhipshukla/Documents/BBB_Linux/ldd/custom_drivers/006gpio_sysfs/gpio-sysfs.mod
